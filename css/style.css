@@ -1,0 +1,82 @@
+
+body{
+/* padding-left: 20%;
+padding-right: 20%; */
+margin: 0;
+
+  text-align: center;
+  font-family: 'Merriweather', serif;
+
+}
+.card-fuc{
+    background-color: #FFEA00;
+}
+.card-hed{
+  /* margin-top: -10px */
+}
+.main{
+  /* padding-right: 20%; */
+}
+.link1{
+  padding: 2px;
+}
+.image-crd-right{
+padding: 2px;
+margin-bottom: 5px;
+}
+.image-crd-left{
+padding: 2px;
+}
+.music1{
+  padding-top: 10px;
+}
+.music2{
+  padding-top: 10px;
+}
+.news-container{
+  padding: 2px;
+  margin-bottom: 5px;
+}
+
+.cursole1{
+  background-color: #1589FF;
+}
+.cursole1{
+margin-bottom: 5px;
+}
+#breaking-text{
+
+  color: black;
+  background-color: red;
+}
+.navbar1{
+padding: 2px;
+}
+.list-group-item {
+  background-color:  #1589FF;
+}
+.icone{
+  padding: 0%,10%;
+  margin-left: 20%;
+}
+.links{
+  color: white;
+}
+a:hover{
+    color: white;
+}
+.bottom-container{
+  background-color: #FF4D4D;
+  padding: 50px 0 20px;
+ }
+ .footer-link{
+   color:black;
+   padding: 20px;
+  font-family: 'Montserrat', sans-serif;
+ font-weight: bold;
+}
+.copy-right{
+  color:black;
+  font-size: 0.8rem;
+  padding: 20px 0;
+}
